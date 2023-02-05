@@ -1,0 +1,54 @@
+{
+  "producto": [
+    {
+      "name": "One",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlpa9JUDglJ_p5ecd3wZYJ6oNVkH-5dA-lS9zUZ0wyMvheUBgXnbKWhw44XtV1eYDUQjo&usqp=CAU",
+      "price": "100.00",
+      "descripcion": "Imagen de oracleONe programa",
+      "id": 1
+    },
+    {
+      "name": "Alura latam",
+      "imageUrl": "https://avatars.githubusercontent.com/u/4975968?s=280&v=4",
+      "price": "5",
+      "descripcion": "imagen de alura latam",
+      "id": 2
+    },
+    {
+      "name": "bic",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp",
+      "price": "10",
+      "descripcion": "imagen de flash",
+      "id": 3
+    },
+    {
+      "name": "Cuidado!",
+      "imageUrl": "https://m.media-amazon.com/images/I/51aqEMfw9KL._AC_SY879_.jpg",
+      "price": "123",
+      "descripcion": "imagen de capitan america",
+      "id": 4
+    },
+    {
+      "name": "Super Man",
+      "imageUrl": "https://juguetesdecoleccion.com/wp-content/uploads/muneco-superman-funko-pop.jpg",
+      "price": "20",
+      "descripcion": "imagen de superman",
+      "id": 5
+    },
+    {
+      "name": "Darth Vader",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp",
+      "price": "25",
+      "descripcion": "imagen de capitan america",
+      "id": 6
+    },
+    {
+      "name": "batman",
+      "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_640262-MCO47330060660_092021-O.webp",
+      "price": "60",
+      "descripcion": "figura de batman",
+      "id": 7
+    }
+  ],
+  "consolas": []
+}

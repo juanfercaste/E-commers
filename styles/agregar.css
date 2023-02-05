@@ -1,0 +1,56 @@
+:root {
+  --bg-color: #e9d5ff;
+  --input-placeholder: #d4d4d4;
+  --input-bg: #efefef;
+  --texto-destaque: #ffff;
+  --azul-destaque: #581c87;
+  --bg-contacto: #c084fc;
+  --bg-color-white: #fff;
+}
+
+.logo-busqueda {
+  margin: 0 auto;
+}
+
+.sec-agregar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titulo-agregar {
+  margin: 1.5rem 0;
+  font-size: 3rem;
+}
+
+.agregar {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 60rem;
+}
+
+.agregar input {
+  height: 5rem;
+  border: none;
+  border-radius: 3rem;
+  padding-left: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.agregar textarea {
+  border: none;
+  border-radius: 3rem;
+  padding-left: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.agregar button {
+  height: 5rem;
+  border: none;
+  border-radius: 3rem;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  background-color: var(--azul-destaque);
+  color: var(--bg-color-white);
+}

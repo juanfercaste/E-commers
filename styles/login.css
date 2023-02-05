@@ -1,0 +1,39 @@
+.logo-busqueda {
+  margin: 0 auto;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 40rem;
+  margin: 0 auto;
+  gap: 4rem;
+}
+
+.titulo-login {
+  font-family: inherit;
+  font-size: 2rem;
+  margin: 0 auto;
+}
+
+.login input {
+  height: 5rem;
+  width: 40rem;
+  border: none;
+  border-radius: 3rem;
+  padding-left: 1.5rem;
+  font-size: 1.5rem;
+  margin: 0 auto;
+}
+
+.login input::placeholder {
+  font-size: 1.5rem;
+  font-style: italic;
+  color: gray;
+}
+
+.btn-login {
+  width: 40rem !important;
+  margin: 0 auto;
+}
